@@ -1,0 +1,30 @@
+.cor-verde{
+    background-color: greenyellow;
+}
+
+.cor-azul{
+    background-color: lightblue;
+}
+
+.cor-prata{
+    background-color: silver;
+}
+
+.borda{
+    border: black solid 2px;
+    border-radius: 5px;
+    padding: 10px;
+    //box-shadow: #000 5px 5px 5px;
+}
+
+.altura{
+    heigth: 600px;
+}
+
+.altura-interna{
+    height: 575px;
+}
+
+.sombra{
+    box-shadow: 5px 5px 3px 2px #BBBBB;
+}
